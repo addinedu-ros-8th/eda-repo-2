@@ -17,7 +17,7 @@ To streamline our analysis, we defined the scope as follows:
 - **United States:** San Francisco  
 
 ### 💡 ER Diagram
-We save all accidents data (both United States and South Korea) in ONE table (named 'car_accident').
+미국과 한국의 교통사고 데이터를 한 테이블에 저장 (car_accident)
 ![ERD](https://github.com/user-attachments/assets/c6859668-3127-42bb-b000-6e2ce33e5eda)
 <br>
 <br>
@@ -32,10 +32,21 @@ We save all accidents data (both United States and South Korea) in ONE table (na
 
 
 ## USA Data Analysis
-![1](img/Screenshot%20from%202025-01-03%2011-08-08.png)
-![2]()
-![3](img/)
+<div align="center">
+  <img src="img/Screenshot%20from%202025-01-03%2011-08-08.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-09-18.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-09-57.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-10-20.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-10-51.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-11-48.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-12-22.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-12-49.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-13-26.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-15-06.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-15-48.png" width=900>  
+</div>
 
-  
+
+## KR Data Analysis
 
 
