@@ -32,7 +32,9 @@ We save all accidents data (both United States and South Korea) in ONE table (na
 
 
 ## USA Data Analysis
-
+![1](img/Screenshot%20from%202025-01-03%2011-08-08.png)
+![2]()
+![3](img/)
 
   
 
