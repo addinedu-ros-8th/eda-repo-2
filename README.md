@@ -42,8 +42,31 @@ To streamline our analysis, we defined the scope as follows:
 
 ## USA Data Analysis
 <div align="center">
+  <p align="left">
+    자율주행 <b>브랜드</b>별 사고건수 조사 <br>
+    Waymo, GM Cruise
+  </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-08-08.png" width=900>
+  <br>
+  <br>
+  <p align="left">
+    자율주행 <b>시스템</b>별 사고건수 조사 <br>
+    자율주행 차량 사고건수 내에서 탑재된 system 별로 사고량을 분석. <br>    
+  </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-09-18.png" width=900>
+  <p>
+      ☝️<br>
+      Level 2 ADAS가 가장 높음 <br>
+      ADS는 비교적 낮으며 두개 다 가지고 있는 차량이 가장 사고량이 적음 <br>
+      ADS의 안정화 예시: Waymo[Level 4, ADS] (2022년 이후로 안정되고 있는 중)
+    <br>
+    <br>
+    <br>
+  </p>
+  <p align="left">
+    자율주행 <b>도로유형</b>별 사고건수 조사 <br>
+    도로유형: 교차로, 기타, 주차장, 단일로 <br>    
+  </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-09-57.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-10-20.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-10-51.png" width=900>
