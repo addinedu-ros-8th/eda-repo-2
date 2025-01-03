@@ -1,5 +1,5 @@
 # Autonomous Analysis
-![Project Logo](image.png "Project Logo")
+![Project Logo](img/image.png "Project Logo")
 
 
 ## 🚘 Topic Background
@@ -13,6 +13,7 @@ To streamline our analysis, we defined the scope as follows:
 - **United States:** San Francisco  
 
 ### 💡 ER Diagram
+![ERD](https://github.com/user-attachments/assets/c6859668-3127-42bb-b000-6e2ce33e5eda)
 
 
   
