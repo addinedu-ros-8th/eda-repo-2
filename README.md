@@ -5,22 +5,29 @@
 - [Topic Background](#topic-background)
 - [Data Analysis Strategy](#data-analysis-strategy)
 - [USA Data Analysis]()
-
+  <br>
+  <br>
+  <br>
+  
 ## 🚘 Topic Background
 - " 자율주행의 시대가 다가오는 요즘, 급발진, 음주운전, 졸음운전등의 사고문제가 자율주행으로 해결될 수 있을까? " <br>
   궁금증으로부터 저희의 프로젝트가 시작되었습니다.
+  <br>
+  <br>
 
 ## Data Analysis Strategy
 ### 📌 Scope Limitation 
 To streamline our analysis, we defined the scope as follows:
 - **South Korea:** Seoul  
 - **United States:** San Francisco  
+  <br>
 
 ### 💡 ER Diagram
 미국과 한국의 교통사고 데이터를 한 테이블에 저장 (car_accident)
-![ERD](https://github.com/user-attachments/assets/c6859668-3127-42bb-b000-6e2ce33e5eda)
+![ERD](img/ERD.png)
+
 <br>
-<br>
+
 **Column Descriptions**
 - `auto_type_id`: auto or manaul
 - `state_id`: Seoul or SF
@@ -30,6 +37,8 @@ To streamline our analysis, we defined the scope as follows:
 - `brand_id`: autonomous car company name
 - `pavement_id`: road codition type (dry, wet, icy, other)
 
+  <br>
+  <br>
 
 ## USA Data Analysis
 <div align="center">
@@ -44,8 +53,11 @@ To streamline our analysis, we defined the scope as follows:
   <img src="img/Screenshot%20from%202025-01-03%2011-13-26.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-15-06.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-15-48.png" width=900>  
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
-
 
 ## KR Data Analysis
 <div align="center">
@@ -57,6 +69,13 @@ To streamline our analysis, we defined the scope as follows:
   <img src="img/Screenshot%20from%202025-01-03%2011-53-58.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-54-02.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-54-06.png" width=900>
+  <br>
+  <br>
+  <br>
+  <br>
 </div>
+
+## Conclusion
+
 
 
