@@ -2,9 +2,9 @@
 ![Project Logo](img/image.png "Project Logo")
 
 ## Table of Contents
-- [Background](#topic-background)
-- [DataStrategy](#data-analysis-strategy)
-
+- [Topic Background](#topic-background)
+- [Data Analysis Strategy](#data-analysis-strategy)
+- [USA Data Analysis]()
 
 ## 🚘 Topic Background
 - " 자율주행의 시대가 다가오는 요즘, 급발진, 음주운전, 졸음운전등의 사고문제가 자율주행으로 해결될 수 있을까? " <br>
@@ -29,6 +29,10 @@ We save all accidents data (both United States and South Korea) in ONE table (na
 - `movement_id`: movement at crash moment (turning, straight, back, etc)
 - `brand_id`: autonomous car company name
 - `pavement_id`: road codition type (dry, wet, icy, other)
+
+
+## USA Data Analysis
+
 
   
 
