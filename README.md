@@ -13,8 +13,18 @@ To streamline our analysis, we defined the scope as follows:
 - **United States:** San Francisco  
 
 ### 💡 ER Diagram
+We save all accidents data (both United States and South Korea) in ONE table (named 'car_accident').
 ![ERD](https://github.com/user-attachments/assets/c6859668-3127-42bb-b000-6e2ce33e5eda)
-
+<br>
+<br>
+**Column Descriptions**
+- `auto_type_id`: auto or manaul
+- `state_id`: Seoul or SF
+- `weather_id`: 5 different weather type (clear, cloud, rain, snowy, other)
+- `road_type_id`: intersection, high way, parking lot, other
+- `movement_id`: movement at crash moment (turning, straight, back, etc)
+- `brand_id`: autonomous car company name
+- `pavement_id`: road codition type (dry, wet, icy, other)
 
   
 
