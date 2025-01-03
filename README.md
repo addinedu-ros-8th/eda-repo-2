@@ -48,5 +48,15 @@ To streamline our analysis, we defined the scope as follows:
 
 
 ## KR Data Analysis
+<div align="center">
+  <img src="img/Screenshot%20from%202025-01-03%2011-53-40.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-53-44.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-53-48.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-53-51.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-53-54.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-53-58.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-54-02.png" width=900>
+  <img src="img/Screenshot%20from%202025-01-03%2011-54-06.png" width=900>
+</div>
 
 
