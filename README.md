@@ -43,14 +43,16 @@ To streamline our analysis, we defined the scope as follows:
 ## USA Data Analysis
 <div align="center">
   <p align="left">
-    자율주행 <b>브랜드</b>별 사고건수 조사 <br>
+    ▶️자율주행 <b>브랜드</b>별 사고건수 조사 <br>
     Waymo, GM Cruise
   </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-08-08.png" width=900>
   <br>
   <br>
   <p align="left">
-    자율주행 <b>시스템</b>별 사고건수 조사 <br>
+    <br>
+    <br>
+    ▶️자율주행 <b>시스템</b>별 사고건수 조사 <br>
     자율주행 차량 사고건수 내에서 탑재된 system 별로 사고량을 분석. <br>    
   </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-09-18.png" width=900>
@@ -64,13 +66,35 @@ To streamline our analysis, we defined the scope as follows:
     <br>
   </p>
   <p align="left">
-    자율주행 <b>도로유형</b>별 사고건수 조사 <br>
+    ▶️자율주행 <b>도로유형</b>별 사고건수 조사 <br>
     도로유형: 교차로, 기타, 주차장, 단일로 <br>    
   </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-09-57.png" width=900>
+  <p align="left">
+    <br>
+    <br>
+    ▶️자율주행 <b>속도</b>별 사고건수 조사 <br>
+  </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-10-20.png" width=900>
+  <p align="left">
+    <br>
+    <br>
+    ▶️자율주행 <b>속도 & 사고당시 상태</b>별 사고건수 조사 <br>
+    상태: 졸음, 음주, 주차, 유턴, 좌/우회전, 직진, 차로위반, 중앙선 침범
+  </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-10-51.png" width=900>
+  <p align="left">
+    <br>
+    <br>
+    ▶️샌프란시스코 <b>날씨</b>별 사고건수 조사 <br>
+    날씨: 맑음, 흐림, 비, 눈
+  </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-11-48.png" width=900>
+   <p align="left">
+    <br>
+    <br>
+    ▶️샌프란시스코 날씨에 따른 <b>상대적 위험도</b> <br>
+  </p>
   <img src="img/Screenshot%20from%202025-01-03%2011-12-22.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-12-49.png" width=900>
   <img src="img/Screenshot%20from%202025-01-03%2011-13-26.png" width=900>
